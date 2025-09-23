@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="http://pdftor.github.io/.github">  
+<a href="https://pdftor.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_PDFTOR_ON_MACBOOK-darkred?style=for-the-badge&logo=apple" alt="Install PDFtor on MacBook">  
 </a>  
 </div>  
